@@ -1,0 +1,7 @@
+C:\Users\neniva\source\repos\Solution1\Four digits\bin\Release\Four digits.exe.config
+C:\Users\neniva\source\repos\Solution1\Four digits\bin\Release\Four digits.exe
+C:\Users\neniva\source\repos\Solution1\Four digits\bin\Release\Four digits.pdb
+C:\Users\neniva\source\repos\Solution1\Four digits\obj\Release\Four digits.csprojResolveAssemblyReference.cache
+C:\Users\neniva\source\repos\Solution1\Four digits\obj\Release\Four digits.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Solution1\Four digits\obj\Release\Four digits.exe
+C:\Users\neniva\source\repos\Solution1\Four digits\obj\Release\Four digits.pdb

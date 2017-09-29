@@ -1,0 +1,6 @@
+C:\Users\neniva\source\repos\Solution1\Rectangle\obj\Release\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Solution1\Rectangle\bin\Release\Rectangle.exe.config
+C:\Users\neniva\source\repos\Solution1\Rectangle\bin\Release\Rectangle.exe
+C:\Users\neniva\source\repos\Solution1\Rectangle\bin\Release\Rectangle.pdb
+C:\Users\neniva\source\repos\Solution1\Rectangle\obj\Release\Rectangle.exe
+C:\Users\neniva\source\repos\Solution1\Rectangle\obj\Release\Rectangle.pdb

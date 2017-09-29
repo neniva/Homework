@@ -1,0 +1,7 @@
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\bin\Release\PrimeCheck.exe.config
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\bin\Release\PrimeCheck.exe
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\bin\Release\PrimeCheck.pdb
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\obj\Release\PrimeCheck.csprojResolveAssemblyReference.cache
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\obj\Release\PrimeCheck.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\obj\Release\PrimeCheck.exe
+C:\Users\neniva\source\repos\Homework\Solution1\PrimeCheck\obj\Release\PrimeCheck.pdb

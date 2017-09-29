@@ -1,0 +1,7 @@
+C:\Users\neniva\source\repos\Solution1\Odd or Even\obj\Release\Odd or Even.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Solution1\Odd or Even\obj\Release\Odd or Even.csprojResolveAssemblyReference.cache
+C:\Users\neniva\source\repos\Solution1\Odd or Even\bin\Release\Odd or Even.exe.config
+C:\Users\neniva\source\repos\Solution1\Odd or Even\bin\Release\Odd or Even.exe
+C:\Users\neniva\source\repos\Solution1\Odd or Even\bin\Release\Odd or Even.pdb
+C:\Users\neniva\source\repos\Solution1\Odd or Even\obj\Release\Odd or Even.exe
+C:\Users\neniva\source\repos\Solution1\Odd or Even\obj\Release\Odd or Even.pdb

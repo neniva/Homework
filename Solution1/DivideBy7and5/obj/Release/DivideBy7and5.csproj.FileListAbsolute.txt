@@ -1,0 +1,7 @@
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\obj\Release\DivideBy7and5.csprojResolveAssemblyReference.cache
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\obj\Release\DivideBy7and5.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\bin\Release\DivideBy7and5.exe.config
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\bin\Release\DivideBy7and5.exe
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\bin\Release\DivideBy7and5.pdb
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\obj\Release\DivideBy7and5.exe
+C:\Users\neniva\source\repos\Solution1\DivideBy7and5\obj\Release\DivideBy7and5.pdb

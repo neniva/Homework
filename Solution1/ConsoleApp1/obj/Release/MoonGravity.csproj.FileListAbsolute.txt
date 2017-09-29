@@ -1,0 +1,7 @@
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\obj\Release\MoonGravity.csprojResolveAssemblyReference.cache
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\obj\Release\MoonGravity.csproj.CoreCompileInputs.cache
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\neniva\source\repos\Solution1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
