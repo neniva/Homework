@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point in a circle", "Point 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCheck", "PrimeCheck\PrimeCheck.csproj", "{65F0CA6F-FBF0-4143-83AD-5A4A7A4EBE5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbersfrom1toM", "Numbersfrom1toM\Numbersfrom1toM.csproj", "{3A482DCA-7472-434B-BCA8-BC6A644DC0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleNumbers", "NotDivisibleNumbers\NotDivisibleNumbers.csproj", "{58E58E1E-3BC6-4532-A6FA-3733EA2CC954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{65F0CA6F-FBF0-4143-83AD-5A4A7A4EBE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65F0CA6F-FBF0-4143-83AD-5A4A7A4EBE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65F0CA6F-FBF0-4143-83AD-5A4A7A4EBE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A482DCA-7472-434B-BCA8-BC6A644DC0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A482DCA-7472-434B-BCA8-BC6A644DC0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A482DCA-7472-434B-BCA8-BC6A644DC0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A482DCA-7472-434B-BCA8-BC6A644DC0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E58E1E-3BC6-4532-A6FA-3733EA2CC954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E58E1E-3BC6-4532-A6FA-3733EA2CC954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E58E1E-3BC6-4532-A6FA-3733EA2CC954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E58E1E-3BC6-4532-A6FA-3733EA2CC954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
